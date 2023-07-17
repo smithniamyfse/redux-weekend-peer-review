@@ -62,11 +62,11 @@ Feedback should be provided for these items, but they do not impact scoring.
 ## Stretch Goals
 
 - Previous Steps
-  - [x] allows a user to go to a previous step, either directly or by cycling backward thru the steps
-  - [x] user can update their score for a step
-    - [x] new score is validated to not be empty
-    - [x] redux is updated with new score
-  - [x] user can continue on to review page and submit as in Base Mode
+  - [] allows a user to go to a previous step, either directly or by cycling backward thru the steps
+  - [] user can update their score for a step
+    - [] new score is validated to not be empty
+    - [] redux is updated with new score
+  - [] user can continue on to review page and submit as in Base Mode
 
 
 - Admin View
